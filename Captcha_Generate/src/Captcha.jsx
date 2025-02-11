@@ -15,7 +15,7 @@ let[showdata,setShowdata]=useState(false);
 function generateCaptcha()
 
 {
-
+//shraddha malwad
 let char='ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 let smallchar='abcdefghijklmnopqrstuvwxyz';
 let specialchar='@#&$';
